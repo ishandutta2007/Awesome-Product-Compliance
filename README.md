@@ -1,261 +1,258 @@
-# Awesome-Product-Compliance
+<div align="center">
 
-Edit
-Top Product Compliance Software Ecosystem
+# 🛡️ Awesome Product Compliance
 
-Curated List of SaaS Products & Open-Source GitHub Projects
-Focused on Product Regulatory Compliance, RoHS, REACH, SCIP, Sustainability, Quality, Materials Compliance & Product Lifecycle Governance
-Last updated: September 2026
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Product Compliance Banner" width="100%" />
+</p>
 
-This repository tracks notable SaaS/hosted platforms and open-source projects for Product Compliance Management. These tools help manufacturers, product companies, engineering teams, compliance professionals, and supply-chain organizations manage product regulations, material declarations, hazardous substances, certifications, technical documentation, supplier information, Bills of Materials (BOMs), engineering changes, quality records, and audit trails.
+### 🌐 Curated Directory of SaaS Platforms & Open-Source Software Ecosystem
+**Focused on Product Regulatory Compliance, RoHS, REACH, SCIP, PFAS, TSCA, Sustainability, Quality, Materials Compliance, BOMs & Product Lifecycle Governance**
 
-Examples include Assent, ComplianceQuest, Propel, Arena PLM, Greenlight Guru, MasterControl, Enhesa, UL 360, Specright, and Sphera (among the leading commercial platforms).
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Product-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Compliance?style=flat-square&logo=github&color=gold" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Product-Compliance/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Product-Compliance?style=flat-square&logo=github&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Product-Compliance/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Open-source emphasis: Dedicated end-to-end open-source product-compliance platforms are less common than commercial offerings. Therefore, this section is heavily expanded to include major open-source PLM, PDM, ERP, QMS, BOM, engineering-change, document-management, supplier-data, regulatory-data, and materials-management projects that can be combined to build self-hosted product compliance workflows.
+*Last updated: September 2026*
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites or upstream GitHub repositories.
+</div>
 
-Table of Contents
+---
 
-SaaS/Hosted Platforms
+## 📖 Overview
 
-Open-Source GitHub Projects
+**Awesome Product Compliance** is an enterprise-grade, community-driven curated directory tracking notable commercial **SaaS/Hosted Platforms** and **Open-Source Software Projects** engineered for **Product Regulatory Compliance Management**, **Product Lifecycle Management (PLM)**, and **Supply Chain ESG Governance**.
 
-How to Contribute
+These systems empower manufacturers, hardware engineering teams, quality managers, and regulatory professionals to orchestrate compliance declarations, chemical thresholds (**RoHS**, **REACH**, **PFAS**, **TSCA**, **EU SCIP**), environmental impact footprints (**LCA**, **CSRD**), technical files, engineering change orders (ECOs), Bills of Materials (BOMs), and immutable audit trails.
 
-Disclaimer
+---
 
-## SaaS/Hosted Platforms
+## 📑 Table of Contents
 
-| Product | Description | Starting Pricing | Free Tier / Free Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **Assent** | Product compliance and supply-chain sustainability platform focused on regulations such as RoHS, REACH, PFAS, TSCA, SCIP, and other complex manufacturer compliance requirements. | Starts at $15,000/year (~$1,250/month) entry tier | 14-day guided proof-of-concept / sandbox trial upon sales qualification with test data limits (up to 50 supplier parts/requests) |
-| **ComplianceQuest** | Enterprise quality, risk, compliance, and product-management platform that connects product, quality, manufacturing, supplier, and regulatory workflows. | Starts at $30/user/month ($360/user/year, typically $10,000/year base minimum) | 14-day interactive trial environment with sample QMS workflows and up to 5 user logins |
-| **Propel** | Cloud-native PLM and product-management platform focused on product lifecycle collaboration, quality, change management, and traceability. | Starts at $18,975/year (SMB starter pack for up to 5 users, ~$315/user/month) | 14-day test drive / sandbox trial on Salesforce AppExchange with demo product dataset |
-| **Arena PLM** | Cloud PLM and quality-management platform providing product records, BOM management, engineering changes, supplier collaboration, and compliance support. | Starts at $89/user/month (billed annually, ~$1,068/user/year with ~$10,000/year base entry tier) | 14-day hands-on guided sandbox trial for qualified engineering teams |
-| **Greenlight Guru** | Quality and product lifecycle platform focused primarily on regulated medical-device organizations, including design controls, risk management, CAPA, and compliance documentation. | Starts at $1,000/month (billed annually at $12,000/year for Core QMS) | 14-day guided sandbox trial upon demonstration request with pre-configured medical device templates |
-| **MasterControl** | Enterprise quality-management and manufacturing platform supporting regulated product development, document control, training, quality processes, and compliance workflows. | Starts at $25,000/year for core quality and document management suite | 14-day guided proof-of-concept sandbox trial for qualified organizations |
-| **Enhesa** | Regulatory intelligence and compliance platform that helps organizations monitor changing product, environmental, chemical, and operational requirements. | Starts at $5,000/year for regional regulatory monitoring and intelligence tier | 14-day free trial limited to 3 regulatory jurisdictions and preview compliance alerts |
-| **UL 360** | Enterprise ESG, EHS, sustainability, product stewardship, and compliance capabilities from UL Solutions for managing regulatory and sustainability information. | Starts at $12,000/year entry tier for mid-market compliance and ESG data management | 14-day pilot evaluation sandbox trial upon sales verification with sample facility data |
-| **Specright** | Specification management platform for centralizing product, material, packaging, supplier, and specification data across the product lifecycle. | Starts at $10,000/year (Foundations tier for basic specification and packaging management) | 14-day interactive test sandbox trial upon request with sample specification templates |
-| **Sphera** | Enterprise environmental, health, safety, sustainability, product stewardship, and operational-risk platform with strong regulatory compliance capabilities. | Starts at $15,000/year base product stewardship and compliance management tier | 14-day proof-of-concept trial with pre-loaded regulatory and chemical compliance datasets |
-| **OpenBOM** | Cloud-native collaborative product-data platform supporting BOM management, revisions, ECO workflows, traceability, procurement, and compliance-related product information. | Starts at $30/seat/month (Team tier, billed annually; $90/seat/month for Company tier) | Free forever non-commercial plan limited to 1 user and up to 2,000 data records; 14-day free trial for paid commercial tiers |
-| **Siemens Teamcenter** | Enterprise PLM platform supporting product structures, materials, requirements, engineering changes, traceability, and regulatory compliance processes. | Starts at $165/user/month (Teamcenter X Essentials tier, billed annually) | 30-day free cloud trial (Teamcenter X 30-day test drive with sample CAD data and pre-configured workflows) |
-| **PTC Windchill** | Enterprise PLM platform used for product data management, BOM governance, engineering changes, configuration management, and compliance workflows. | Starts at $100/user/month ($1,200/user/year standard viewer/editor tier in Windchill Cloud) | 14-day free cloud evaluation trial for qualified teams with sample BOM and CAD models |
-| **Dassault Systèmes ENOVIA** | Product lifecycle and collaboration platform supporting product governance, requirements, engineering data, configuration, and regulated product-development processes. | Starts at $150/user/month (~$1,800/user/year for Collaborative Industry Innovator role on 3DEXPERIENCE Cloud) | 14-day cloud trial sandbox of the 3DEXPERIENCE platform with demo project workspace |
-| **SAP Product Compliance** | Enterprise product-compliance capabilities for managing regulated substances, product safety, declarations, classifications, and compliance information across supply chains. | Starts at $3,500/month (~$42,000/year entry module in SAP S/4HANA Cloud) | 30-day SAP S/4HANA Cloud guided trial with sample master data and pre-defined compliance scenarios |
-| **Oracle Product Lifecycle Management** | Enterprise PLM platform for managing product records, specifications, changes, quality processes, and lifecycle governance. | Starts at $175/user/month (Oracle Cloud PLM base user license, billed annually) | 30-day Oracle Cloud Free Tier trial with $300 in free cloud credits |
-| **Aras Innovator** | Enterprise digital-thread and PLM platform supporting configuration, requirements, quality, engineering changes, BOMs, and compliance-related product information. | Starts at $1,000/subscriber/year for Enterprise SaaS subscription ($0 for Community edition) | Free forever Community edition (full self-hosted core PLM features without subscriber security updates or enterprise connectors); 30-day trial for Enterprise SaaS |
-| **Centric Software** | Product lifecycle platform used in consumer goods, fashion, retail, cosmetics, food, and other industries requiring structured product specifications and compliance data. | Starts at $75/user/month (Centric SMB starter tier, typically from $9,000/year) | 14-day guided proof-of-concept sandbox demo with sample consumer product catalog |
-| **Lectra Kubix Link PLM** | Product lifecycle and product-data platform supporting specifications, materials, supplier collaboration, and product development workflows. | Starts at €75/user/month (~$82/user/month, approx. €9,000/year entry deployment) | 14-day guided trial sandbox for qualified enterprise teams with demo material libraries |
+- [🏢 SaaS & Hosted Platforms](#-saashosted-platforms)
+  - [📊 Market Size & Industry Dynamics](#-market-size--industry-dynamics)
+  - [📋 SaaS Comparison Table](#-saas-comparison-table)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🏆 Top Open-Source Projects (Ranked by Stars)](#-top-open-source-projects-ranked-by-stars)
+  - [🧩 Architectural Category Breakdown](#-architectural-category-breakdown)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#-disclaimer)
 
-Open-Source GitHub Projects
+---
 
-OpenPLM
-Open-source Product Lifecycle Management platform built around reusable PLM functionality. It provides a foundation for managing product information, documents, revisions, and lifecycle workflows.
+## 🏢 SaaS/Hosted Platforms
 
-DocDokuPLM
-Comprehensive open-source PLM solution providing document management, product structures, configurations, BOMs, workflows, task management, and engineering change management.
+### 📊 Market Size & Industry Dynamics
 
-OdooPLM / OdoPLM
-Open-source PLM/PDM extension for Odoo supporting CAD integration, engineering BOMs, revisions, document management, BOM comparison, engineering workflows, and product lifecycle control.
+> 💡 **Market Size & Sector Structure**: The Global Product Regulatory Compliance and Engineering PLM Software market is estimated at **$10.8 Billion in 2026** (projected to reach **$18.4 Billion by 2032** at an **8.9% CAGR**). The sector is **moderately fragmented**: while massive diversified enterprise infrastructure conglomerates (Oracle, SAP, Siemens, Dassault Systèmes, PTC) command core enterprise PLM and ERP backbones, specialized regulatory compliance, supplier chemical surveillance, and medical/EHS intelligence platforms (Assent, Greenlight Guru, Sphera, ComplianceQuest, Specright) retain resilient, highly specialized domain moats rather than exhibiting a winner-take-all monopoly.
 
-PLMore
-Open-source PLM initiative focused on modern product lifecycle management, including BOMs, product data, CAD information, change management, supplier information, material data, and future regulatory-compliance capabilities.
+### 📋 SaaS Comparison Table
 
-GitPLM
-Lightweight open-source approach to managing product lifecycle information in Git, including part numbers, BOMs, revisions, manufacturing release data, and engineering metadata.
+*The table below is sorted by **Company Size (Market Cap / Valuation / Revenue)** in descending order.*
 
-ERPNext
-Major open-source ERP platform with manufacturing, BOM, inventory, procurement, supplier, quality, and document-related capabilities that can serve as the operational backbone of a custom product-compliance system.
+| 🏢 Product | 💼 Company Size (Market Cap / Valuation / Revenue) | 📝 Description | 💰 Starting Pricing | 🎁 Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **Oracle Product Lifecycle Management** | **~$420B Market Cap** (~$53B Annual Revenue) | Enterprise PLM and cloud compliance governance for managing product records, specifications, change management, and regulatory quality lifecycles. | Starts at $175/user/month (Oracle Cloud PLM base user license, billed annually) | 30-day Oracle Cloud Free Tier trial with $300 in free cloud credits |
+| **SAP Product Compliance** | **~$260B Market Cap** (~$34B Annual Revenue) | Comprehensive enterprise product compliance managing regulated substances, dangerous goods classification, SDS authoring, and supply chain declarations within SAP S/4HANA. | Starts at $3,500/month (~$42,000/year entry module in SAP S/4HANA Cloud) | 30-day SAP S/4HANA Cloud guided trial with sample master data and pre-defined compliance scenarios |
+| **Siemens Teamcenter** | **~$165B Market Cap** (~$80B Annual Revenue, Parent) | Leading digital lifecycle management platform supporting complex product structures, material compliance, environmental product declarations, and change governance. | Starts at $165/user/month (Teamcenter X Essentials tier, billed annually) | 30-day free cloud trial (Teamcenter X 30-day test drive with sample CAD data and pre-configured workflows) |
+| **Dassault Systèmes ENOVIA** | **~$55B Market Cap** (~$6.5B Annual Revenue) | 3DEXPERIENCE platform connecting design, BOMs, materials compliance, regulatory deliverables, and engineering configuration processes. | Starts at $150/user/month (~$1,800/user/year for Collaborative Industry Innovator role on 3DEXPERIENCE Cloud) | 14-day cloud trial sandbox of the 3DEXPERIENCE platform with demo project workspace |
+| **PTC Windchill** | **~$22B Market Cap** (~$2.2B Annual Revenue) | Enterprise PLM platform engineered for digital thread traceability, BOM governance, environmental compliance (RoHS/REACH), and change workflows. | Starts at $100/user/month ($1,200/user/year standard viewer/editor tier in Windchill Cloud) | 14-day free cloud evaluation trial for qualified teams with sample BOM and CAD models |
+| **Arena PLM** | **~$22B Parent Market Cap** ($715M Acquisition Valuation) | Cloud-native PLM and quality management platform unifying product records, BOM management, supplier compliance declarations, and ECO workflows. | Starts at $89/user/month (billed annually, ~$1,068/user/year with ~$10,000/year base entry tier) | 14-day hands-on guided sandbox trial for qualified engineering teams |
+| **UL 360** | **~$11B Market Cap** (~$2.8B Annual Revenue) | Enterprise ESG, sustainability, EHS, and chemical compliance platform from UL Solutions for supply chain environmental reporting and regulatory tracking. | Starts at $12,000/year entry tier for mid-market compliance and ESG data management | 14-day pilot evaluation sandbox trial upon sales verification with sample facility data |
+| **Lectra Kubix Link PLM** | **~$1.2B Market Cap** (~$550M Annual Revenue) | Cloud product lifecycle and product data platform specialized in materials compliance, fashion/textile regulations, supplier collaboration, and technical packs. | Starts at €75/user/month (~$82/user/month, approx. €9,000/year entry deployment) | 14-day guided trial sandbox for qualified enterprise teams with demo material libraries |
+| **Sphera** | **$1.4B Valuation** (~$200M+ Annual Revenue, Blackstone) | Environmental, health, safety, sustainability, and product stewardship platform specialized in chemical regulatory compliance, IMDS, and ESG reporting. | Starts at $15,000/year base product stewardship and compliance management tier | 14-day proof-of-concept trial with pre-loaded regulatory and chemical compliance datasets |
+| **MasterControl** | **$1.3B Valuation** (~$120M+ ARR Unicorn) | Enterprise quality management system (QMS) and manufacturing execution software for life sciences and regulated product compliance documentation. | Starts at $25,000/year for core quality and document management suite | 14-day guided proof-of-concept sandbox trial for qualified organizations |
+| **Assent** | **$1.0B+ Valuation** (~$100M+ ARR Unicorn) | Deep supply chain sustainability and product compliance platform focused on RoHS, REACH, PFAS, TSCA, EU SCIP, and conflict minerals surveillance. | Starts at $15,000/year (~$1,250/month) entry tier | 14-day guided proof-of-concept / sandbox trial upon sales qualification with test data limits (up to 50 supplier parts/requests) |
+| **Greenlight Guru** | **~$450M Valuation** (~$50M+ ARR) | Cloud QMS and product lifecycle platform purpose-built for medical device manufacturers, covering design controls, risk management (ISO 14971), and CAPA. | Starts at $1,000/month (billed annually at $12,000/year for Core QMS) | 14-day guided sandbox trial upon demonstration request with pre-configured medical device templates |
+| **Aras Innovator** | **~$400M Valuation** (~$50M+ Annual Revenue) | Resilient enterprise digital thread and PLM platform supporting complex configuration, requirements, materials compliance, and engineering change management. | Starts at $1,000/subscriber/year for Enterprise SaaS subscription ($0 for Community edition) | Free forever Community edition (full self-hosted core PLM features without subscriber security updates or enterprise connectors); 30-day trial for Enterprise SaaS |
+| **ComplianceQuest** | **~$180M Valuation** (~$30M+ Annual Revenue) | Salesforce-native enterprise quality, safety, risk, and regulatory compliance platform connecting suppliers, manufacturing, and customer quality workflows. | Starts at $30/user/month ($360/user/year, typically $10,000/year base minimum) | 14-day interactive trial environment with sample QMS workflows and up to 5 user logins |
+| **Enhesa** | **~$160M Valuation** (~$30M+ Annual Revenue) | Global regulatory intelligence and compliance software platform providing real-time tracking of chemical restrictions, EHS rules, and product laws worldwide. | Starts at $5,000/year for regional regulatory monitoring and intelligence tier | 14-day free trial limited to 3 regulatory jurisdictions and preview compliance alerts |
+| **Specright** | **~$140M Valuation** (~$25M+ ARR) | Specification data management (SDM) platform centralizing packaging, raw material, ingredients, supplier certifications, and sustainability metrics. | Starts at $10,000/year (Foundations tier for basic specification and packaging management) | 14-day interactive test sandbox trial upon request with sample specification templates |
+| **Centric Software** | **~$130M Valuation** (~$60M+ Annual Revenue) | PLM platform tailored for consumer packaged goods, cosmetics, fashion, retail, and food industries managing formulations, labeling, and regulatory declarations. | Starts at $75/user/month (Centric SMB starter tier, typically from $9,000/year) | 14-day guided proof-of-concept sandbox demo with sample consumer product catalog |
+| **Propel** | **~$120M Valuation** (~$20M+ ARR) | Modern Salesforce-native PLM, QMS, and PIM platform empowering commercialization, engineering change management, and regulatory compliance records. | Starts at $18,975/year (SMB starter pack for up to 5 users, ~$315/user/month) | 14-day test drive / sandbox trial on Salesforce AppExchange with demo product dataset |
+| **OpenBOM** | **~$25M Valuation** (~$5M ARR) | Cloud-native collaborative BOM, inventory, and engineering change platform connecting CAD, PDM, procurement, and materials compliance tracking. | Starts at $30/seat/month (Team tier, billed annually; $90/seat/month for Company tier) | Free forever non-commercial plan limited to 1 user and up to 2,000 data records; 14-day free trial for paid commercial tiers |
 
-Odoo Community
-Large open-source ERP platform providing manufacturing, inventory, purchasing, product, supplier, document, and workflow functionality that can be extended for regulatory and product-compliance requirements.
+---
 
-Frappe Framework
-Open-source full-stack application framework underlying ERPNext and suitable for building custom compliance, regulatory-data, product-specification, approval, and audit-trail applications.
+## 🔓 Open-Source GitHub Projects
 
-Tryton
-Modular open-source ERP platform that can support product, inventory, procurement, supplier, manufacturing, and traceability workflows through extensions.
+Open-source tools offer transparency, local data ownership, and customizable rule validation for engineering and compliance teams building sovereign product compliance systems.
 
-Dolibarr
-Open-source ERP and business-management system with products, suppliers, inventory, documents, and workflow capabilities that can be extended for product compliance management.
+### 🏆 Top Open-Source Projects (Ranked by Stars)
 
-Odoo Community Association
-Large ecosystem of open-source Odoo modules covering manufacturing, quality, document management, engineering changes, procurement, supplier workflows, and other building blocks relevant to product compliance.
+*The list below is sorted by **GitHub Stars** in descending order. Each repository includes a dynamic social star badge linking directly to its stargazers page.*
 
-Open Source Ecology GVCS
-Open hardware and product-development ecosystem with transparent engineering documentation, BOMs, manufacturing information, and reproducible product-development practices.
+1. ⚡ **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+   *Fair-code workflow automation platform connecting ERP, PLM, supplier APIs, compliance databases, and webhook triggers.*
 
-Open Source Hardware Association Resources
-Community resources and tooling around open hardware development, documentation, component data, and transparent product-development workflows.
+2. 📊 **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+   *Open-source Airtable alternative turning SQL databases into collaborative compliance, materials, and certification registers.*
 
-KiCad
-Major open-source electronic-design automation platform that can generate and manage PCB design data and BOMs, forming an important component of electronic-product traceability workflows.
+3. 🏢 **[Odoo Community](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+   *Enterprise open-source ERP with manufacturing, multi-level BOMs, supply chain tracking, and compliance document management.*
 
-KiCad BOM Tools
-Broad ecosystem of open-source BOM exporters, component-management utilities, manufacturing scripts, and compliance-oriented tooling for electronics products.
+4. 🔄 **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+   *Workflow orchestration platform to automate supplier-data pipelines, regulatory ingestion, and recurring compliance validation jobs.*
 
-OpenBOM Community Integrations
-Community integrations and automation projects for connecting BOM and product data with engineering, ERP, procurement, and compliance workflows.
+5. 📄 **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
+   *Document management system with OCR scanning and indexing for supplier declarations, RoHS/REACH certificates, and lab reports.*
 
-InvenTree
-Powerful open-source inventory and stock-management system supporting parts, suppliers, BOMs, build orders, traceability, and component information useful for compliance-aware manufacturing.
+6. 🛠️ **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+   *Open-source low-code platform for creating internal regulatory tools, supplier audit portals, and product inspection apps.*
 
-PartKeepr
-Open-source electronic-component inventory and management platform useful for maintaining component records, supplier information, datasheets, and structured parts data.
+7. 📱 **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+   *Low-code application framework for building internal compliance portals, audit dashboards, and supplier questionnaires.*
 
-Part-DB
-Open-source inventory and component-management system with part records, supplier data, attachments, parameters, and stock information.
+8. 🏭 **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+   *Comprehensive open-source ERP supporting manufacturing BOMs, item traceability, quality inspections, and supplier tracking.*
 
-LibrePCB
-Open-source electronics-design platform supporting structured component libraries and BOM-oriented engineering workflows.
+9. 🗄️ **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+   *Open-source data platform and Headless CMS exposing product, material, and regulatory data via dynamic REST/GraphQL APIs.*
 
-FreeCAD
-Major open-source parametric 3D CAD platform that can serve as the engineering-design layer of a self-hosted product lifecycle and compliance workflow.
+10. ☁️ **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+    *Self-hosted collaboration platform for secure, controlled storage and sharing of compliance dossiers and supplier certificates.*
 
-OpenSCAD
-Open-source programmable CAD system suitable for transparent, version-controlled product and component design workflows.
+11. 📐 **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+    *Open-source parametric 3D CAD modeler for engineering design, technical product files, and BOM extraction.*
 
-OpenModelica
-Open-source modeling and simulation environment useful where product verification, engineering analysis, and technical evidence are part of regulated product-development processes.
+12. 🧱 **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+    *Open-source low-code builder for creating internal supplier declaration portals, CAPA tracking tools, and review systems.*
 
-OpenLCA
-Major open-source Life Cycle Assessment software platform that can support environmental product analysis, sustainability reporting, and lifecycle-impact assessment.
+13. 🌐 **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+    *Low-code flow-based programming platform for wiring together IoT hardware, industrial devices, and compliance databases.*
 
-Brightway
-Open-source ecosystem for life-cycle assessment and environmental footprint analysis, useful for organizations building transparent sustainability and product-impact workflows.
+14. ⏳ **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+    *Microservice orchestration engine for resilient, long-running supplier onboarding, audit trails, and certification workflows.*
 
-Activity-Browser
-Open-source graphical application for life-cycle assessment workflows built around the Brightway ecosystem.
+15. 🗂️ **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
+    *Unified metadata management platform for governance, regulatory data discovery, lineage tracking, and compliance audits.*
 
-OpenLCA Nexus / Data Ecosystem Tools
-Open-source tools and datasets supporting life-cycle inventories, environmental assessment, product-impact modeling, and sustainability analysis.
+16. 🧹 **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** [![GitHub stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white)](https://github.com/OpenRefine/OpenRefine/stargazers)  
+    *Powerful data cleaning tool for normalizing complex supplier declarations, CAS chemical lists, and BOM spreadsheets.*
 
-OpenRefine
-Open-source data-cleaning and transformation platform useful for normalizing supplier declarations, material lists, product specifications, and regulatory datasets.
+17. ⚙️ **[Frappe Framework](https://github.com/frappe/frappe)** [![GitHub stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers)  
+    *Full-stack web framework powering ERPNext, ideal for building bespoke compliance registers and audit workflows.*
 
-Apache Airflow
-Open-source workflow orchestration platform that can automate supplier-data collection, regulatory-data ingestion, compliance checks, report generation, and recurring data-processing pipelines.
+18. 🛡️ **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
+    *General-purpose policy engine for evaluating product specifications and supply chain BOMs against machine-readable compliance policies.*
 
-Apache NiFi
-Open-source data-flow platform useful for connecting ERP, PLM, supplier, laboratory, regulatory, and document systems into automated compliance pipelines.
+19. 💻 **[OpenSCAD](https://github.com/OpenSCAD/openscad)** [![GitHub stars](https://img.shields.io/github/stars/OpenSCAD/openscad?style=social&color=white)](https://github.com/OpenSCAD/openscad/stargazers)  
+    *Script-only 3D CAD modeler enabling reproducible, version-controlled geometric design files and product documentation.*
 
-Node-RED
-Open-source flow-based automation platform suitable for building integrations between product databases, supplier systems, APIs, regulatory sources, and internal approval workflows.
+20. 🔄 **[Flowable Engine](https://github.com/flowable/flowable-engine)** [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)  
+    *BPMN 2.0 and CMMN workflow and case management engine for structured regulatory change requests and approval processes.*
 
-n8n
-Source-available workflow automation platform commonly self-hosted for integrating APIs, databases, documents, supplier systems, and approval workflows.
+21. 📦 **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+    *Modular open-source inventory and component management system with full BOM tracking, supplier part mapping, and stock traceability.*
 
-Baserow
-Open-source database and collaborative workspace platform that can be adapted for materials declarations, product specifications, supplier questionnaires, and compliance registers.
+22. 🌊 **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)  
+    *Easy-to-use, powerful data distribution and processing system to ingest and route compliance sensor data, lab results, and supplier feeds.*
 
-NocoDB
-Open-source no-code database platform suitable for building custom product-compliance registers and collaborative data-management applications.
+23. 🔒 **[OWASP DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
+    *Leading vulnerability management and regulatory security compliance orchestration platform.*
 
-Directus
-Open-source data platform that can expose product, supplier, material, certification, and regulatory information through configurable APIs and administrative interfaces.
+24. 👮 **[OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/gatekeeper?style=social&color=white)](https://github.com/open-policy-agent/gatekeeper/stargazers)  
+    *Policy controller enforcing strict regulatory and organizational compliance policies.*
 
-Budibase
-Open-source low-code platform for building internal applications such as supplier declaration portals, compliance registers, product review dashboards, and approval systems.
+25. 🔀 **[Camunda Platform](https://github.com/camunda/camunda)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)  
+    *Enterprise workflow and decision automation platform for orchestrating end-to-end engineering change and audit workflows.*
 
-Appsmith
-Open-source low-code application platform suitable for creating internal compliance dashboards, product-data review interfaces, and regulatory workflow tools.
+26. 🔌 **[LibrePCB](https://github.com/LibrePCB/LibrePCB)** [![GitHub stars](https://img.shields.io/github/stars/LibrePCB/LibrePCB?style=social&color=white)](https://github.com/LibrePCB/LibrePCB/stargazers)  
+    *Modular, intuitive EDA software for designing printed circuit boards with structured component and materials libraries.*
 
-ToolJet
-Open-source low-code platform for creating internal tools that can unify product, supplier, inventory, regulatory, and compliance data.
+27. 🔌 **[KiCad EDA](https://github.com/KiCad/KiCad)** [![GitHub stars](https://img.shields.io/github/stars/KiCad/KiCad?style=social&color=white)](https://github.com/KiCad/KiCad/stargazers)  
+    *Cross-platform electronics design suite for schematic capture, PCB layout, and compliance-oriented electronics BOM generation.*
 
-Mayan EDMS
-Open-source electronic document-management system supporting document indexing, metadata, workflows, retention, and controlled access.
+28. 📋 **[Part-DB](https://github.com/Part-DB/Part-DB)** [![GitHub stars](https://img.shields.io/github/stars/Part-DB/Part-DB?style=social&color=white)](https://github.com/Part-DB/Part-DB/stargazers)  
+    *Open-source electronic component and parts inventory database with datasheet storage, parameters, and supplier tracking.*
 
-OpenKM Community
-Open-source document-management platform useful for controlled storage of certificates, declarations, test reports, technical files, and regulatory documentation.
+29. 🧠 **[Drools Rules Engine](https://github.com/kiegroup/drools)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/drools?style=social&color=white)](https://github.com/kiegroup/drools/stargazers)  
+    *Business rules management system (BRMS) to automate regulatory decision tables, hazardous substance thresholds, and compliance checks.*
 
-Paperless-ngx
-Open-source document-management system suitable for digitizing and organizing supplier certificates, declarations, technical documents, and compliance evidence.
+30. 🗃️ **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
+    *Electronic component inventory management system designed for tracking parts, datasheets, and manufacturer specifications.*
 
-Nextcloud
-Open-source collaboration and document-management platform that can support controlled sharing of compliance documents and supplier information.
+31. 🔬 **[OpenModelica](https://github.com/OpenModelica/OpenModelica)** [![GitHub stars](https://img.shields.io/github/stars/OpenModelica/OpenModelica?style=social&color=white)](https://github.com/OpenModelica/OpenModelica/stargazers)  
+    *Open-source Modelica-based modeling and simulation environment for verification and technical evidence generation in regulated engineering.*
 
-Alfresco Community
-Open-source enterprise content-management foundation suitable for large-scale technical documentation, records management, and controlled document workflows.
+32. 📑 **[Mayan EDMS](https://github.com/Mayan-EDMS/mayan-edms)** [![GitHub stars](https://img.shields.io/github/stars/Mayan-EDMS/mayan-edms?style=social&color=white)](https://github.com/Mayan-EDMS/mayan-edms/stargazers)  
+    *Electronic document management system providing controlled storage, metadata indexing, and retention policies for compliance files.*
 
-Senaite LIMS
-Open-source laboratory information-management system that can support testing, certificates of analysis, quality records, and evidence generation where laboratory verification contributes to product compliance.
+33. 🗄️ **[Alfresco Community](https://github.com/Alfresco/alfresco-community-repo)** [![GitHub stars](https://img.shields.io/github/stars/Alfresco/alfresco-community-repo?style=social&color=white)](https://github.com/Alfresco/alfresco-community-repo/stargazers)  
+    *Enterprise content management repository for large-scale regulated document workflows, versioning, and compliance records.*
 
-OpenELIS Global
-Open-source laboratory information-management platform useful as a foundation for regulated testing and analytical evidence workflows.
+34. ⚙️ **[DocDokuPLM](https://github.com/docdoku/docdoku-plm)** [![GitHub stars](https://img.shields.io/github/stars/docdoku/docdoku-plm?style=social&color=white)](https://github.com/docdoku/docdoku-plm/stargazers)  
+    *Open-source PLM platform supporting document control, product breakdown structures, CAD file integration, and engineering changes.*
 
-QMS Framework Projects
-Community open-source projects covering CAPA, nonconformance, audits, inspections, corrective actions, quality records, and document control.
+35. 🌱 **[Brightway2](https://github.com/brightway-lca/brightway2)** [![GitHub stars](https://img.shields.io/github/stars/brightway-lca/brightway2?style=social&color=white)](https://github.com/brightway-lca/brightway2/stargazers)  
+    *Open-source framework for advanced Life Cycle Assessment (LCA) and environmental impact compliance calculations.*
 
-Open Policy Agent
-Open-source policy engine that can encode machine-readable compliance rules and automatically evaluate product, supplier, or configuration data against defined policies.
+36. 🧪 **[SENAITE LIMS](https://github.com/senaite/senaite.core)** [![GitHub stars](https://img.shields.io/github/stars/senaite/senaite.core?style=social&color=white)](https://github.com/senaite/senaite.core/stargazers)  
+    *Open-source Laboratory Information Management System (LIMS) for managing lab samples, test results, and compliance certificates of analysis.*
 
-Drools
-Open-source business-rules engine suitable for implementing automated regulatory decision logic, material restrictions, product classification, and compliance checks.
+37. 🏭 **[OCA Manufacturing Modules](https://github.com/OCA/manufacture)** [![GitHub stars](https://img.shields.io/github/stars/OCA/manufacture?style=social&color=white)](https://github.com/OCA/manufacture/stargazers)  
+    *Community-driven Odoo modules for engineering changes, advanced BOM operations, and manufacturing quality controls.*
 
-Camunda BPM
-Open-source workflow and BPM platform useful for compliance approvals, engineering changes, supplier declarations, CAPA processes, and audit workflows.
+38. 📦 **[OdooPLM](https://github.com/OdooPLM/odoo_plm)** [![GitHub stars](https://img.shields.io/github/stars/OdooPLM/odoo_plm?style=social&color=white)](https://github.com/OdooPLM/odoo_plm/stargazers)  
+    *PLM and PDM extension for Odoo integrating CAD data, engineering BOMs, and revision controls with ERP operations.*
 
-Flowable
-Open-source BPMN, CMMN, and workflow engine that can automate complex compliance and product-governance processes.
+39. 🗃️ **[OpenPLM](https://github.com/OpenPLM/openplm)** [![GitHub stars](https://img.shields.io/github/stars/OpenPLM/openplm?style=social&color=white)](https://github.com/OpenPLM/openplm/stargazers)  
+    *Open-source Product Lifecycle Management platform providing product structures, document lifecycles, and revision management.*
 
-Temporal
-Open-source workflow orchestration platform suitable for reliable long-running supplier, certification, review, approval, and regulatory-compliance workflows.
+---
 
-Additional Strong Open-Source Options
+### 🧩 Architectural Category Breakdown
 
-PLM and PDM: OpenPLM, DocDokuPLM, OdooPLM, PLMore, GitPLM, and community Odoo PLM modules.
+| 🗂️ Functional Layer | 🛠️ Open-Source Technologies |
+| :--- | :--- |
+| **Product Lifecycle & PDM** | [DocDokuPLM](https://github.com/docdoku/docdoku-plm), [OdooPLM](https://github.com/OdooPLM/odoo_plm), [OpenPLM](https://github.com/OpenPLM/openplm) |
+| **Enterprise ERP & Operations** | [Odoo](https://github.com/odoo/odoo), [ERPNext](https://github.com/frappe/erpnext), [Frappe](https://github.com/frappe/frappe) |
+| **Component & BOM Management** | [InvenTree](https://github.com/inventree/InvenTree), [Part-DB](https://github.com/Part-DB/Part-DB), [PartKeepr](https://github.com/partkeepr/PartKeepr) |
+| **Document Control & EDMS** | [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx), [Nextcloud](https://github.com/nextcloud/server), [Mayan EDMS](https://github.com/Mayan-EDMS/mayan-edms), [Alfresco](https://github.com/Alfresco/alfresco-community-repo) |
+| **Workflow & Orchestration** | [n8n](https://github.com/n8n-io/n8n), [Apache Airflow](https://github.com/apache/airflow), [Temporal](https://github.com/temporalio/temporal), [Camunda](https://github.com/camunda/camunda), [Flowable](https://github.com/flowable/flowable-engine) |
+| **Compliance Rules & Policy Engines** | [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa), [OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper), [Drools](https://github.com/kiegroup/drools) |
+| **Custom Compliance Apps & UI** | [NocoDB](https://github.com/nocodb/nocodb), [Appsmith](https://github.com/appsmithorg/appsmith), [ToolJet](https://github.com/ToolJet/ToolJet), [Budibase](https://github.com/Budibase/budibase), [Directus](https://github.com/directus/directus) |
+| **CAD & Engineering Design** | [FreeCAD](https://github.com/FreeCAD/FreeCAD), [OpenSCAD](https://github.com/OpenSCAD/openscad), [KiCad](https://github.com/KiCad/KiCad), [LibrePCB](https://github.com/LibrePCB/LibrePCB) |
+| **Data Pipelines & Cleaning** | [OpenRefine](https://github.com/OpenRefine/OpenRefine), [Apache NiFi](https://github.com/apache/nifi), [OpenMetadata](https://github.com/open-metadata/OpenMetadata) |
+| **LCA & Sustainability Impact** | [Brightway2](https://github.com/brightway-lca/brightway2) |
+| **Laboratory Evidence & LIMS** | [SENAITE LIMS](https://github.com/senaite/senaite.core) |
+| **Security & Vulnerability Compliance** | [OWASP DefectDojo](https://github.com/DefectDojo/django-DefectDojo) |
 
-ERP and manufacturing backbones: ERPNext, Odoo Community, Tryton, and Dolibarr.
+---
 
-BOM and component management: InvenTree, Part-DB, PartKeepr, KiCad tooling, and Git-based BOM workflows.
+## 🤝 How to Contribute
 
-Engineering design: FreeCAD, KiCad, LibrePCB, OpenSCAD, and OpenModelica.
+Contributions are welcome and actively encouraged!
 
-Environmental and sustainability analysis: OpenLCA, Brightway, Activity-Browser, and open life-cycle inventory datasets.
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a new branch**: `git checkout -b add-compliance-tool`
+3. ✏️ **Add/edit entries in `README.md`**: Maintain chronological or tabular format, including official pricing or star badges where appropriate.
+4. 🔗 **Ensure canonical links**: Link directly to official websites or upstream GitHub repositories.
+5. 🚀 **Submit a Pull Request** with a concise description of the addition.
 
-Document and technical-file management: Mayan EDMS, Paperless-ngx, Nextcloud, OpenKM, and Alfresco Community.
+---
 
-Workflow and approval automation: Apache Airflow, Apache NiFi, Node-RED, Camunda, Flowable, and Temporal.
+## 📈 Star History
 
-Custom compliance applications: Baserow, NocoDB, Directus, Budibase, Appsmith, and ToolJet.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Product-Compliance&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Product-Compliance&type=date&legend=top-left)
 
-Compliance rules engines: Open Policy Agent and Drools.
+---
 
-Laboratory and testing evidence: Senaite LIMS and OpenELIS Global.
+## ⚠️ Disclaimer
 
-Many specialized community projects for RoHS declarations, REACH substance lists, material declarations, electronics BOM analysis, chemical inventories, sustainability reporting, and supplier questionnaires.
+- This repository is a community-curated directory intended solely for educational, architectural, and informational purposes.
+- Product compliance regulations (**RoHS**, **REACH**, **SCIP**, **PFAS**, **TSCA**, **FDA 21 CFR Part 11**, **MDR/IVDR**, **EU MDR**) vary significantly by jurisdiction, product category, materials composition, and market.
+- Software tools structure data and automate verification, but do not by themselves constitute legal or regulatory certification.
+- Always consult qualified compliance officers, environmental engineers, and legal counsel for official regulatory certification and compliance determinations.
 
-Frameworks for building custom systems: A practical open-source product-compliance architecture can combine OpenPLM or OdooPLM for lifecycle control, ERPNext or Odoo Community for operational and supplier data, InvenTree or Part-DB for components and BOM records, Mayan EDMS or Paperless-ngx for certificates and technical documentation, and Open Policy Agent or Drools for automated compliance rules. Add Apache NiFi, Airflow, Node-RED, or n8n for data integration, and use OpenLCA or Brightway where environmental and sustainability analysis is required.
+---
 
-How to Contribute
-
-Fork the repo.
-
-Add/edit entries in README.md (follow existing format).
-
-Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-Prefer official websites and canonical upstream repositories.
-
-Submit a PR with a short explanation.
-
-Star the repo if you find it useful!
-
-Disclaimer
-
-This is a community-curated list — not exhaustive and not an endorsement.
-
-Product-compliance requirements vary substantially by jurisdiction, product category, materials, industry, and intended market.
-
-Software can organize compliance evidence and automate checks, but it does not by itself guarantee compliance with regulations such as RoHS, REACH, SCIP, PFAS restrictions, FDA requirements, product-safety rules, or industry-specific standards.
-
-Regulatory interpretations and legal obligations should be reviewed with qualified compliance, legal, engineering, and product-safety professionals.
-
-Self-hosted open-source solutions require careful configuration of regulatory rules, supplier-data processes, access controls, backups, audit trails, and validation procedures.
-
-Made for manufacturers, product managers, compliance professionals, engineers, sustainability teams, supply-chain organizations, and developers building transparent product governance systems.
-
-Let's make product compliance more open, traceable, data-driven, and adaptable.
+<div align="center">
+  <sub>Built with ❤️ for product managers, compliance engineers, sustainability teams, and hardware innovators worldwide.</sub>
+</div>
