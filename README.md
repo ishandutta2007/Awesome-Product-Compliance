@@ -86,123 +86,123 @@ Open-source tools offer transparency, local data ownership, and customizable rul
 
 ### 🏆 Top Open-Source Projects (Ranked by Stars)
 
-*The list below is sorted by **GitHub Stars** in descending order. Each repository includes a dynamic social star badge linking directly to its stargazers page.*
+*The list below is sorted by **GitHub_Stars** in descending order. Each repository includes a dynamic social star badge linking directly to its stargazers page.*
 
-1. ⚡ **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. ⚡ **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    *Fair-code workflow automation platform connecting ERP, PLM, supplier APIs, compliance databases, and webhook triggers.*
 
-2. 📊 **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+2. 📊 **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    *Open-source Airtable alternative turning SQL databases into collaborative compliance, materials, and certification registers.*
 
-3. 🏢 **[Odoo Community](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+3. 🏢 **[Odoo Community](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    *Enterprise open-source ERP with manufacturing, multi-level BOMs, supply chain tracking, and compliance document management.*
 
-4. 🔄 **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+4. 🔄 **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
    *Workflow orchestration platform to automate supplier-data pipelines, regulatory ingestion, and recurring compliance validation jobs.*
 
-5. 📄 **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
+5. 📄 **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub_Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
    *Document management system with OCR scanning and indexing for supplier declarations, RoHS/REACH certificates, and lab reports.*
 
-6. 🛠️ **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+6. 🛠️ **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
    *Open-source low-code platform for creating internal regulatory tools, supplier audit portals, and product inspection apps.*
 
-7. 📱 **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+7. 📱 **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
    *Low-code application framework for building internal compliance portals, audit dashboards, and supplier questionnaires.*
 
-8. 🏭 **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+8. 🏭 **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Comprehensive open-source ERP supporting manufacturing BOMs, item traceability, quality inspections, and supplier tracking.*
 
-9. 🗄️ **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+9. 🗄️ **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
    *Open-source data platform and Headless CMS exposing product, material, and regulatory data via dynamic REST/GraphQL APIs.*
 
-10. ☁️ **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+10. ☁️ **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
     *Self-hosted collaboration platform for secure, controlled storage and sharing of compliance dossiers and supplier certificates.*
 
-11. 📐 **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+11. 📐 **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
     *Open-source parametric 3D CAD modeler for engineering design, technical product files, and BOM extraction.*
 
-12. 🧱 **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+12. 🧱 **[Budibase](https://github.com/Budibase/budibase)** [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
     *Open-source low-code builder for creating internal supplier declaration portals, CAPA tracking tools, and review systems.*
 
-13. 🌐 **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+13. 🌐 **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
     *Low-code flow-based programming platform for wiring together IoT hardware, industrial devices, and compliance databases.*
 
-14. ⏳ **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+14. ⏳ **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
     *Microservice orchestration engine for resilient, long-running supplier onboarding, audit trails, and certification workflows.*
 
-15. 🗂️ **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
+15. 🗂️ **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![GitHub_Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
     *Unified metadata management platform for governance, regulatory data discovery, lineage tracking, and compliance audits.*
 
-16. 🧹 **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** [![GitHub stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white)](https://github.com/OpenRefine/OpenRefine/stargazers)  
+16. 🧹 **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white)](https://github.com/OpenRefine/OpenRefine/stargazers)  
     *Powerful data cleaning tool for normalizing complex supplier declarations, CAS chemical lists, and BOM spreadsheets.*
 
-17. ⚙️ **[Frappe Framework](https://github.com/frappe/frappe)** [![GitHub stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers)  
+17. ⚙️ **[Frappe Framework](https://github.com/frappe/frappe)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers)  
     *Full-stack web framework powering ERPNext, ideal for building bespoke compliance registers and audit workflows.*
 
-18. 🛡️ **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
+18. 🛡️ **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
     *General-purpose policy engine for evaluating product specifications and supply chain BOMs against machine-readable compliance policies.*
 
-19. 💻 **[OpenSCAD](https://github.com/OpenSCAD/openscad)** [![GitHub stars](https://img.shields.io/github/stars/OpenSCAD/openscad?style=social&color=white)](https://github.com/OpenSCAD/openscad/stargazers)  
+19. 💻 **[OpenSCAD](https://github.com/OpenSCAD/openscad)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSCAD/openscad?style=social&color=white)](https://github.com/OpenSCAD/openscad/stargazers)  
     *Script-only 3D CAD modeler enabling reproducible, version-controlled geometric design files and product documentation.*
 
-20. 🔄 **[Flowable Engine](https://github.com/flowable/flowable-engine)** [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)  
+20. 🔄 **[Flowable Engine](https://github.com/flowable/flowable-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)  
     *BPMN 2.0 and CMMN workflow and case management engine for structured regulatory change requests and approval processes.*
 
-21. 📦 **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+21. 📦 **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
     *Modular open-source inventory and component management system with full BOM tracking, supplier part mapping, and stock traceability.*
 
-22. 🌊 **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)  
+22. 🌊 **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)  
     *Easy-to-use, powerful data distribution and processing system to ingest and route compliance sensor data, lab results, and supplier feeds.*
 
-23. 🔒 **[OWASP DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
+23. 🔒 **[OWASP DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
     *Leading vulnerability management and regulatory security compliance orchestration platform.*
 
-24. 👮 **[OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/gatekeeper?style=social&color=white)](https://github.com/open-policy-agent/gatekeeper/stargazers)  
+24. 👮 **[OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper)** [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/gatekeeper?style=social&color=white)](https://github.com/open-policy-agent/gatekeeper/stargazers)  
     *Policy controller enforcing strict regulatory and organizational compliance policies.*
 
-25. 🔀 **[Camunda Platform](https://github.com/camunda/camunda)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)  
+25. 🔀 **[Camunda Platform](https://github.com/camunda/camunda)** [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)  
     *Enterprise workflow and decision automation platform for orchestrating end-to-end engineering change and audit workflows.*
 
-26. 🔌 **[LibrePCB](https://github.com/LibrePCB/LibrePCB)** [![GitHub stars](https://img.shields.io/github/stars/LibrePCB/LibrePCB?style=social&color=white)](https://github.com/LibrePCB/LibrePCB/stargazers)  
+26. 🔌 **[LibrePCB](https://github.com/LibrePCB/LibrePCB)** [![GitHub_Stars](https://img.shields.io/github/stars/LibrePCB/LibrePCB?style=social&color=white)](https://github.com/LibrePCB/LibrePCB/stargazers)  
     *Modular, intuitive EDA software for designing printed circuit boards with structured component and materials libraries.*
 
-27. 🔌 **[KiCad EDA](https://github.com/KiCad/KiCad)** [![GitHub stars](https://img.shields.io/github/stars/KiCad/KiCad?style=social&color=white)](https://github.com/KiCad/KiCad/stargazers)  
+27. 🔌 **[KiCad EDA](https://github.com/KiCad/KiCad)** [![GitHub_Stars](https://img.shields.io/github/stars/KiCad/KiCad?style=social&color=white)](https://github.com/KiCad/KiCad/stargazers)  
     *Cross-platform electronics design suite for schematic capture, PCB layout, and compliance-oriented electronics BOM generation.*
 
-28. 📋 **[Part-DB](https://github.com/Part-DB/Part-DB)** [![GitHub stars](https://img.shields.io/github/stars/Part-DB/Part-DB?style=social&color=white)](https://github.com/Part-DB/Part-DB/stargazers)  
+28. 📋 **[Part-DB](https://github.com/Part-DB/Part-DB)** [![GitHub_Stars](https://img.shields.io/github/stars/Part-DB/Part-DB?style=social&color=white)](https://github.com/Part-DB/Part-DB/stargazers)  
     *Open-source electronic component and parts inventory database with datasheet storage, parameters, and supplier tracking.*
 
-29. 🧠 **[Drools Rules Engine](https://github.com/kiegroup/drools)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/drools?style=social&color=white)](https://github.com/kiegroup/drools/stargazers)  
+29. 🧠 **[Drools Rules Engine](https://github.com/kiegroup/drools)** [![GitHub_Stars](https://img.shields.io/github/stars/kiegroup/drools?style=social&color=white)](https://github.com/kiegroup/drools/stargazers)  
     *Business rules management system (BRMS) to automate regulatory decision tables, hazardous substance thresholds, and compliance checks.*
 
-30. 🗃️ **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
+30. 🗃️ **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub_Stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
     *Electronic component inventory management system designed for tracking parts, datasheets, and manufacturer specifications.*
 
-31. 🔬 **[OpenModelica](https://github.com/OpenModelica/OpenModelica)** [![GitHub stars](https://img.shields.io/github/stars/OpenModelica/OpenModelica?style=social&color=white)](https://github.com/OpenModelica/OpenModelica/stargazers)  
+31. 🔬 **[OpenModelica](https://github.com/OpenModelica/OpenModelica)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenModelica/OpenModelica?style=social&color=white)](https://github.com/OpenModelica/OpenModelica/stargazers)  
     *Open-source Modelica-based modeling and simulation environment for verification and technical evidence generation in regulated engineering.*
 
-32. 📑 **[Mayan EDMS](https://github.com/Mayan-EDMS/mayan-edms)** [![GitHub stars](https://img.shields.io/github/stars/Mayan-EDMS/mayan-edms?style=social&color=white)](https://github.com/Mayan-EDMS/mayan-edms/stargazers)  
+32. 📑 **[Mayan EDMS](https://github.com/Mayan-EDMS/mayan-edms)** [![GitHub_Stars](https://img.shields.io/github/stars/Mayan-EDMS/mayan-edms?style=social&color=white)](https://github.com/Mayan-EDMS/mayan-edms/stargazers)  
     *Electronic document management system providing controlled storage, metadata indexing, and retention policies for compliance files.*
 
-33. 🗄️ **[Alfresco Community](https://github.com/Alfresco/alfresco-community-repo)** [![GitHub stars](https://img.shields.io/github/stars/Alfresco/alfresco-community-repo?style=social&color=white)](https://github.com/Alfresco/alfresco-community-repo/stargazers)  
+33. 🗄️ **[Alfresco Community](https://github.com/Alfresco/alfresco-community-repo)** [![GitHub_Stars](https://img.shields.io/github/stars/Alfresco/alfresco-community-repo?style=social&color=white)](https://github.com/Alfresco/alfresco-community-repo/stargazers)  
     *Enterprise content management repository for large-scale regulated document workflows, versioning, and compliance records.*
 
-34. ⚙️ **[DocDokuPLM](https://github.com/docdoku/docdoku-plm)** [![GitHub stars](https://img.shields.io/github/stars/docdoku/docdoku-plm?style=social&color=white)](https://github.com/docdoku/docdoku-plm/stargazers)  
+34. ⚙️ **[DocDokuPLM](https://github.com/docdoku/docdoku-plm)** [![GitHub_Stars](https://img.shields.io/github/stars/docdoku/docdoku-plm?style=social&color=white)](https://github.com/docdoku/docdoku-plm/stargazers)  
     *Open-source PLM platform supporting document control, product breakdown structures, CAD file integration, and engineering changes.*
 
-35. 🌱 **[Brightway2](https://github.com/brightway-lca/brightway2)** [![GitHub stars](https://img.shields.io/github/stars/brightway-lca/brightway2?style=social&color=white)](https://github.com/brightway-lca/brightway2/stargazers)  
+35. 🌱 **[Brightway2](https://github.com/brightway-lca/brightway2)** [![GitHub_Stars](https://img.shields.io/github/stars/brightway-lca/brightway2?style=social&color=white)](https://github.com/brightway-lca/brightway2/stargazers)  
     *Open-source framework for advanced Life Cycle Assessment (LCA) and environmental impact compliance calculations.*
 
-36. 🧪 **[SENAITE LIMS](https://github.com/senaite/senaite.core)** [![GitHub stars](https://img.shields.io/github/stars/senaite/senaite.core?style=social&color=white)](https://github.com/senaite/senaite.core/stargazers)  
+36. 🧪 **[SENAITE LIMS](https://github.com/senaite/senaite.core)** [![GitHub_Stars](https://img.shields.io/github/stars/senaite/senaite.core?style=social&color=white)](https://github.com/senaite/senaite.core/stargazers)  
     *Open-source Laboratory Information Management System (LIMS) for managing lab samples, test results, and compliance certificates of analysis.*
 
-37. 🏭 **[OCA Manufacturing Modules](https://github.com/OCA/manufacture)** [![GitHub stars](https://img.shields.io/github/stars/OCA/manufacture?style=social&color=white)](https://github.com/OCA/manufacture/stargazers)  
+37. 🏭 **[OCA Manufacturing Modules](https://github.com/OCA/manufacture)** [![GitHub_Stars](https://img.shields.io/github/stars/OCA/manufacture?style=social&color=white)](https://github.com/OCA/manufacture/stargazers)  
     *Community-driven Odoo modules for engineering changes, advanced BOM operations, and manufacturing quality controls.*
 
-38. 📦 **[OdooPLM](https://github.com/OdooPLM/odoo_plm)** [![GitHub stars](https://img.shields.io/github/stars/OdooPLM/odoo_plm?style=social&color=white)](https://github.com/OdooPLM/odoo_plm/stargazers)  
+38. 📦 **[OdooPLM](https://github.com/OdooPLM/odoo_plm)** [![GitHub_Stars](https://img.shields.io/github/stars/OdooPLM/odoo_plm?style=social&color=white)](https://github.com/OdooPLM/odoo_plm/stargazers)  
     *PLM and PDM extension for Odoo integrating CAD data, engineering BOMs, and revision controls with ERP operations.*
 
-39. 🗃️ **[OpenPLM](https://github.com/OpenPLM/openplm)** [![GitHub stars](https://img.shields.io/github/stars/OpenPLM/openplm?style=social&color=white)](https://github.com/OpenPLM/openplm/stargazers)  
+39. 🗃️ **[OpenPLM](https://github.com/OpenPLM/openplm)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenPLM/openplm?style=social&color=white)](https://github.com/OpenPLM/openplm/stargazers)  
     *Open-source Product Lifecycle Management platform providing product structures, document lifecycles, and revision management.*
 
 ---
