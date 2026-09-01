@@ -25,64 +25,29 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Assent
-Product compliance and supply-chain sustainability platform focused on regulations such as RoHS, REACH, PFAS, TSCA, SCIP, and other complex manufacturer compliance requirements.
-
-ComplianceQuest
-Enterprise quality, risk, compliance, and product-management platform that connects product, quality, manufacturing, supplier, and regulatory workflows.
-
-Propel
-Cloud-native PLM and product-management platform focused on product lifecycle collaboration, quality, change management, and traceability.
-
-Arena PLM
-Cloud PLM and quality-management platform providing product records, BOM management, engineering changes, supplier collaboration, and compliance support.
-
-Greenlight Guru
-Quality and product lifecycle platform focused primarily on regulated medical-device organizations, including design controls, risk management, CAPA, and compliance documentation.
-
-MasterControl
-Enterprise quality-management and manufacturing platform supporting regulated product development, document control, training, quality processes, and compliance workflows.
-
-Enhesa
-Regulatory intelligence and compliance platform that helps organizations monitor changing product, environmental, chemical, and operational requirements.
-
-UL 360
-Enterprise ESG, EHS, sustainability, product stewardship, and compliance capabilities from UL Solutions for managing regulatory and sustainability information.
-
-Specright
-Specification management platform for centralizing product, material, packaging, supplier, and specification data across the product lifecycle.
-
-Sphera
-Enterprise environmental, health, safety, sustainability, product stewardship, and operational-risk platform with strong regulatory compliance capabilities.
-
-OpenBOM
-Cloud-native collaborative product-data platform supporting BOM management, revisions, ECO workflows, traceability, procurement, and compliance-related product information.
-
-Siemens Teamcenter
-Enterprise PLM platform supporting product structures, materials, requirements, engineering changes, traceability, and regulatory compliance processes.
-
-PTC Windchill
-Enterprise PLM platform used for product data management, BOM governance, engineering changes, configuration management, and compliance workflows.
-
-Dassault Systèmes ENOVIA
-Product lifecycle and collaboration platform supporting product governance, requirements, engineering data, configuration, and regulated product-development processes.
-
-SAP Product Compliance
-Enterprise product-compliance capabilities for managing regulated substances, product safety, declarations, classifications, and compliance information across supply chains.
-
-Oracle Product Lifecycle Management
-Enterprise PLM platform for managing product records, specifications, changes, quality processes, and lifecycle governance.
-
-Aras Innovator
-Enterprise digital-thread and PLM platform supporting configuration, requirements, quality, engineering changes, BOMs, and compliance-related product information.
-
-Centric Software
-Product lifecycle platform used in consumer goods, fashion, retail, cosmetics, food, and other industries requiring structured product specifications and compliance data.
-
-Lectra Kubix Link PLM
-Product lifecycle and product-data platform supporting specifications, materials, supplier collaboration, and product development workflows.
+| Product | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Assent** | Product compliance and supply-chain sustainability platform focused on regulations such as RoHS, REACH, PFAS, TSCA, SCIP, and other complex manufacturer compliance requirements. | Starts at $15,000/year (~$1,250/month) entry tier | 14-day guided proof-of-concept / sandbox trial upon sales qualification with test data limits (up to 50 supplier parts/requests) |
+| **ComplianceQuest** | Enterprise quality, risk, compliance, and product-management platform that connects product, quality, manufacturing, supplier, and regulatory workflows. | Starts at $30/user/month ($360/user/year, typically $10,000/year base minimum) | 14-day interactive trial environment with sample QMS workflows and up to 5 user logins |
+| **Propel** | Cloud-native PLM and product-management platform focused on product lifecycle collaboration, quality, change management, and traceability. | Starts at $18,975/year (SMB starter pack for up to 5 users, ~$315/user/month) | 14-day test drive / sandbox trial on Salesforce AppExchange with demo product dataset |
+| **Arena PLM** | Cloud PLM and quality-management platform providing product records, BOM management, engineering changes, supplier collaboration, and compliance support. | Starts at $89/user/month (billed annually, ~$1,068/user/year with ~$10,000/year base entry tier) | 14-day hands-on guided sandbox trial for qualified engineering teams |
+| **Greenlight Guru** | Quality and product lifecycle platform focused primarily on regulated medical-device organizations, including design controls, risk management, CAPA, and compliance documentation. | Starts at $1,000/month (billed annually at $12,000/year for Core QMS) | 14-day guided sandbox trial upon demonstration request with pre-configured medical device templates |
+| **MasterControl** | Enterprise quality-management and manufacturing platform supporting regulated product development, document control, training, quality processes, and compliance workflows. | Starts at $25,000/year for core quality and document management suite | 14-day guided proof-of-concept sandbox trial for qualified organizations |
+| **Enhesa** | Regulatory intelligence and compliance platform that helps organizations monitor changing product, environmental, chemical, and operational requirements. | Starts at $5,000/year for regional regulatory monitoring and intelligence tier | 14-day free trial limited to 3 regulatory jurisdictions and preview compliance alerts |
+| **UL 360** | Enterprise ESG, EHS, sustainability, product stewardship, and compliance capabilities from UL Solutions for managing regulatory and sustainability information. | Starts at $12,000/year entry tier for mid-market compliance and ESG data management | 14-day pilot evaluation sandbox trial upon sales verification with sample facility data |
+| **Specright** | Specification management platform for centralizing product, material, packaging, supplier, and specification data across the product lifecycle. | Starts at $10,000/year (Foundations tier for basic specification and packaging management) | 14-day interactive test sandbox trial upon request with sample specification templates |
+| **Sphera** | Enterprise environmental, health, safety, sustainability, product stewardship, and operational-risk platform with strong regulatory compliance capabilities. | Starts at $15,000/year base product stewardship and compliance management tier | 14-day proof-of-concept trial with pre-loaded regulatory and chemical compliance datasets |
+| **OpenBOM** | Cloud-native collaborative product-data platform supporting BOM management, revisions, ECO workflows, traceability, procurement, and compliance-related product information. | Starts at $30/seat/month (Team tier, billed annually; $90/seat/month for Company tier) | Free forever non-commercial plan limited to 1 user and up to 2,000 data records; 14-day free trial for paid commercial tiers |
+| **Siemens Teamcenter** | Enterprise PLM platform supporting product structures, materials, requirements, engineering changes, traceability, and regulatory compliance processes. | Starts at $165/user/month (Teamcenter X Essentials tier, billed annually) | 30-day free cloud trial (Teamcenter X 30-day test drive with sample CAD data and pre-configured workflows) |
+| **PTC Windchill** | Enterprise PLM platform used for product data management, BOM governance, engineering changes, configuration management, and compliance workflows. | Starts at $100/user/month ($1,200/user/year standard viewer/editor tier in Windchill Cloud) | 14-day free cloud evaluation trial for qualified teams with sample BOM and CAD models |
+| **Dassault Systèmes ENOVIA** | Product lifecycle and collaboration platform supporting product governance, requirements, engineering data, configuration, and regulated product-development processes. | Starts at $150/user/month (~$1,800/user/year for Collaborative Industry Innovator role on 3DEXPERIENCE Cloud) | 14-day cloud trial sandbox of the 3DEXPERIENCE platform with demo project workspace |
+| **SAP Product Compliance** | Enterprise product-compliance capabilities for managing regulated substances, product safety, declarations, classifications, and compliance information across supply chains. | Starts at $3,500/month (~$42,000/year entry module in SAP S/4HANA Cloud) | 30-day SAP S/4HANA Cloud guided trial with sample master data and pre-defined compliance scenarios |
+| **Oracle Product Lifecycle Management** | Enterprise PLM platform for managing product records, specifications, changes, quality processes, and lifecycle governance. | Starts at $175/user/month (Oracle Cloud PLM base user license, billed annually) | 30-day Oracle Cloud Free Tier trial with $300 in free cloud credits |
+| **Aras Innovator** | Enterprise digital-thread and PLM platform supporting configuration, requirements, quality, engineering changes, BOMs, and compliance-related product information. | Starts at $1,000/subscriber/year for Enterprise SaaS subscription ($0 for Community edition) | Free forever Community edition (full self-hosted core PLM features without subscriber security updates or enterprise connectors); 30-day trial for Enterprise SaaS |
+| **Centric Software** | Product lifecycle platform used in consumer goods, fashion, retail, cosmetics, food, and other industries requiring structured product specifications and compliance data. | Starts at $75/user/month (Centric SMB starter tier, typically from $9,000/year) | 14-day guided proof-of-concept sandbox demo with sample consumer product catalog |
+| **Lectra Kubix Link PLM** | Product lifecycle and product-data platform supporting specifications, materials, supplier collaboration, and product development workflows. | Starts at €75/user/month (~$82/user/month, approx. €9,000/year entry deployment) | 14-day guided trial sandbox for qualified enterprise teams with demo material libraries |
 
 Open-Source GitHub Projects
 
